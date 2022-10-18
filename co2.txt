@@ -1,0 +1,4 @@
+new change made to run git cherry pick command
+step 1 copy id of file u want to cherrypick
+step 2 paste it in cherrypick command 
+step git log to see changes
