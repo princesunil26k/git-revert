@@ -1,0 +1,3 @@
+auto click bug fix
+auto click aleart update
+auto off code implemented 
